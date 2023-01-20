@@ -34,7 +34,6 @@ public class ProgramPersonalData {
         System.out.printf("Lower height = %.2f%n", lower);
         
         
-        //Look for the package "entities" for a class named "PersonalData"
 
         double biggest = data[0].getHeight();
         for(int i = 0; i < data.length ; i++) {
